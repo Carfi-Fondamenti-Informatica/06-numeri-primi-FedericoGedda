@@ -8,5 +8,5 @@ bool n_primo(int n, int c){
             return false;
         }
     }
-    numprimo(n,c+1);
+    n_primo(n,c+1);
 }
